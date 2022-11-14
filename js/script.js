@@ -19,12 +19,12 @@ if (navigator.serviceWorker) {
  */
 function updateSliderValue(valueFromSlider) {
   document.getElementById("slider-value").innerHTML = valueFromSlider
+  Math.floor(Math.random() * 6) + 1;  // returns a random integer from 1 to 6
 }
 
-Math.floor(Math.random() * 6) + 1 // returns a random integer from 1 to 6
-
-if (slider - value == Math.floor) {
-  document.getElementById.innerHTML = "<p>Correct! " + "</p>"
+if(slider-value == Math.floor) {
+  document.getElementById.innerHTML =
+    "<p>Correct! " + "</p>"
 }
 
 /**
