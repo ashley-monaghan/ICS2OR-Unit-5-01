@@ -27,17 +27,9 @@ function updateSliderValue(valueFromSlider) {
     document.getElementById("answer").innerHTML =
       "The answer was" + randomNumber + "!" + " You got it right! Good job."
   } else {
-    "The answer was" +
+    document.getElementById("answer").innerHTML = "The answer was" +
       randomNumber +
       "!" +
       " You got it wrong. Better luck next time!"
   }
-}
-
-/**
- * This function displays the slider value.
- */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML =
-    "<p>Value is: " + slider.value + "</p>"
 }
