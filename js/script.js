@@ -27,7 +27,8 @@ function updateSliderValue(valueFromSlider) {
     document.getElementById("answer").innerHTML =
       "The answer was" + randomNumber + "!" + " You got it right! Good job."
   } else {
-    document.getElementById("answer").innerHTML = "The answer was" +
+    document.getElementById("answer").innerHTML =
+      "The answer was" +
       randomNumber +
       "!" +
       " You got it wrong. Better luck next time!"
