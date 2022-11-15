@@ -14,16 +14,21 @@ if (navigator.serviceWorker) {
     scope: "/ICS2OR-Unit-5-01/",
   })
 }
+
+const randomNumber = Math.floor(Math.random() * 6) + 1 // returns a random integer from 1 to 6
+
 /**
  * This function updates the slider value.
  */
 function updateSliderValue(valueFromSlider) {
   document.getElementById("slider-value").innerHTML = valueFromSlider
-  Math.floor(Math.random() * 6) + 1 // returns a random integer from 1 to 6
 }
 
-if (slider - value == Math.floor) {
-  document.getElementById.innerHTML = "<p>Correct! " + "</p>"
+if (valueFromSlider == randomNumber) {
+  document.getElementById("answer").innerHTML = 
+  "The answer was" + randomNumber + "!" + " You got it right! Good job."
+} else {
+  "The answer was" + randomNumber + "!" + " You got it wrong. Better luck next time!"
 }
 
 /**
