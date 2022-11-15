@@ -23,17 +23,15 @@ const randomNumber = Math.floor(Math.random() * 6) + 1 // returns a random integ
 function updateSliderValue(valueFromSlider) {
   document.getElementById("slider-value").innerHTML = valueFromSlider
 
-
-if (valueFromSlider == randomNumber) {
-  document.getElementById("answer").innerHTML =
-    "The answer was" + randomNumber + "!" + " You got it right! Good job."
-} else {
-  "The answer was" +
-    randomNumber +
-    "!" +
-    " You got it wrong. Better luck next time!"
-}
-
+  if (valueFromSlider == randomNumber) {
+    document.getElementById("answer").innerHTML =
+      "The answer was" + randomNumber + "!" + " You got it right! Good job."
+  } else {
+    "The answer was" +
+      randomNumber +
+      "!" +
+      " You got it wrong. Better luck next time!"
+  }
 }
 
 /**
