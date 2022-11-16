@@ -29,10 +29,10 @@ function updateSliderValue(valueFromSlider) {
   }
 
   //if (valueFromSlider !== randomNumber) {
-  document.getElementById("answer").innerHTML =
-    "The answer was " +
-    randomNumber +
-    "." +
-    " You got it wrong. Better luck next time!"
-  //}
+    //document.getElementById("answer").innerHTML =
+     // "The answer was " +
+    //  randomNumber +
+    //  "." +
+   //   " You got it wrong. Better luck next time!"
+//}
 }
