@@ -26,7 +26,7 @@ function updateSliderValue(valueFromSlider) {
   if (valueFromSlider == randomNumber) {
     document.getElementById("answer").innerHTML =
       "The answer was " + randomNumber + "!" + " You got it right! Good job."
-  };
+  }
 
   if (valueFromSlider !== randomNumber) {
     document.getElementById("answer").innerHTML =
@@ -34,5 +34,5 @@ function updateSliderValue(valueFromSlider) {
       randomNumber +
       "." +
       " You got it wrong. Better luck next time!"
-  };
-};
+  }
+}
