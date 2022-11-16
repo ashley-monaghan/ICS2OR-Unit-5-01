@@ -33,6 +33,6 @@ function updateSliderValue(valueFromSlider) {
       "The answer was " +
       randomNumber +
       "." +
-     " You got it wrong. Better luck next time!"
+      " You got it wrong. Better luck next time!"
   }
 }
