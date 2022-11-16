@@ -28,11 +28,11 @@ function updateSliderValue(valueFromSlider) {
       "The answer was " + randomNumber + "!" + " You got it right! Good job."
   }
 
-  if (valueFromSlider !== randomNumber) {
+  //if (valueFromSlider !== randomNumber) {
     document.getElementById("answer").innerHTML =
       "The answer was " +
       randomNumber +
       "." +
       " You got it wrong. Better luck next time!"
-  }
+//}
 }
