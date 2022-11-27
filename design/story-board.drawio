@@ -10,16 +10,16 @@
                 <mxCell id="3" value="Guess the Number!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="80" width="400" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+                <mxCell id="4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
                     <mxGeometry x="380" y="130" width="90" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iSlider;barPos=20;" vertex="1" parent="1">
+                <mxCell id="5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iSlider;barPos=20;" parent="1" vertex="1">
                     <mxGeometry x="88" y="166" width="270" height="10" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Sliders Value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="6" value="Sliders Value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="80" y="147" width="90" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="??" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="7" value="??" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="82" y="130" width="30" height="20" as="geometry"/>
                 </mxCell>
             </root>
@@ -30,25 +30,25 @@
             <root>
                 <mxCell id="lZYuIcPWGLnl5fcnnsI--0"/>
                 <mxCell id="lZYuIcPWGLnl5fcnnsI--1" parent="lZYuIcPWGLnl5fcnnsI--0"/>
-                <mxCell id="lZYuIcPWGLnl5fcnnsI--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lZYuIcPWGLnl5fcnnsI--1">
+                <mxCell id="lZYuIcPWGLnl5fcnnsI--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="lZYuIcPWGLnl5fcnnsI--1" vertex="1">
                     <mxGeometry x="80" y="80" width="400" height="300" as="geometry"/>
                 </mxCell>
-                <mxCell id="lZYuIcPWGLnl5fcnnsI--3" value="Guess the Number!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lZYuIcPWGLnl5fcnnsI--1">
+                <mxCell id="lZYuIcPWGLnl5fcnnsI--3" value="Guess the Number!" style="rounded=0;whiteSpace=wrap;html=1;" parent="lZYuIcPWGLnl5fcnnsI--1" vertex="1">
                     <mxGeometry x="80" y="80" width="400" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="lZYuIcPWGLnl5fcnnsI--4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="lZYuIcPWGLnl5fcnnsI--1">
+                <mxCell id="lZYuIcPWGLnl5fcnnsI--4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="lZYuIcPWGLnl5fcnnsI--1" vertex="1">
                     <mxGeometry x="380" y="130" width="90" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="lZYuIcPWGLnl5fcnnsI--5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iSlider;barPos=20;" vertex="1" parent="lZYuIcPWGLnl5fcnnsI--1">
+                <mxCell id="lZYuIcPWGLnl5fcnnsI--5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iSlider;barPos=20;" parent="lZYuIcPWGLnl5fcnnsI--1" vertex="1">
                     <mxGeometry x="88" y="166" width="270" height="10" as="geometry"/>
                 </mxCell>
-                <mxCell id="lZYuIcPWGLnl5fcnnsI--6" value="Sliders Value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lZYuIcPWGLnl5fcnnsI--1">
+                <mxCell id="lZYuIcPWGLnl5fcnnsI--6" value="Sliders Value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="lZYuIcPWGLnl5fcnnsI--1" vertex="1">
                     <mxGeometry x="80" y="147" width="90" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="lZYuIcPWGLnl5fcnnsI--7" value="(randomNumber)&amp;nbsp; 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lZYuIcPWGLnl5fcnnsI--1">
+                <mxCell id="lZYuIcPWGLnl5fcnnsI--7" value="(randomNumber)&amp;nbsp; 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="lZYuIcPWGLnl5fcnnsI--1" vertex="1">
                     <mxGeometry x="80" y="127" width="120" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="SQBnsQa9ZI3wx2-GfFGE-0" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;The answer was 2! You got it right! Good job.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lZYuIcPWGLnl5fcnnsI--1">
+                <mxCell id="SQBnsQa9ZI3wx2-GfFGE-0" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;The answer was 2! You got it right! Good job.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lZYuIcPWGLnl5fcnnsI--1" vertex="1">
                     <mxGeometry x="80" y="180" width="210" height="30" as="geometry"/>
                 </mxCell>
             </root>
@@ -59,25 +59,25 @@
             <root>
                 <mxCell id="RX3rkN6UX9lsYqyp_UWs-0"/>
                 <mxCell id="RX3rkN6UX9lsYqyp_UWs-1" parent="RX3rkN6UX9lsYqyp_UWs-0"/>
-                <mxCell id="RX3rkN6UX9lsYqyp_UWs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RX3rkN6UX9lsYqyp_UWs-1">
+                <mxCell id="RX3rkN6UX9lsYqyp_UWs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="RX3rkN6UX9lsYqyp_UWs-1" vertex="1">
                     <mxGeometry x="80" y="80" width="400" height="300" as="geometry"/>
                 </mxCell>
-                <mxCell id="RX3rkN6UX9lsYqyp_UWs-3" value="Guess the Number!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RX3rkN6UX9lsYqyp_UWs-1">
+                <mxCell id="RX3rkN6UX9lsYqyp_UWs-3" value="Guess the Number!" style="rounded=0;whiteSpace=wrap;html=1;" parent="RX3rkN6UX9lsYqyp_UWs-1" vertex="1">
                     <mxGeometry x="80" y="80" width="400" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="RX3rkN6UX9lsYqyp_UWs-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="RX3rkN6UX9lsYqyp_UWs-1">
+                <mxCell id="RX3rkN6UX9lsYqyp_UWs-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="RX3rkN6UX9lsYqyp_UWs-1" vertex="1">
                     <mxGeometry x="380" y="130" width="90" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="RX3rkN6UX9lsYqyp_UWs-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iSlider;barPos=20;" vertex="1" parent="RX3rkN6UX9lsYqyp_UWs-1">
+                <mxCell id="RX3rkN6UX9lsYqyp_UWs-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iSlider;barPos=20;" parent="RX3rkN6UX9lsYqyp_UWs-1" vertex="1">
                     <mxGeometry x="88" y="166" width="270" height="10" as="geometry"/>
                 </mxCell>
-                <mxCell id="RX3rkN6UX9lsYqyp_UWs-6" value="Sliders Value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RX3rkN6UX9lsYqyp_UWs-1">
+                <mxCell id="RX3rkN6UX9lsYqyp_UWs-6" value="Sliders Value" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="RX3rkN6UX9lsYqyp_UWs-1" vertex="1">
                     <mxGeometry x="80" y="147" width="90" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="L8kf82eJXHRJFwKSBOPC-1" value="(randomNumber)&amp;nbsp; 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RX3rkN6UX9lsYqyp_UWs-1">
+                <mxCell id="L8kf82eJXHRJFwKSBOPC-1" value="(randomNumber)&amp;nbsp; 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="RX3rkN6UX9lsYqyp_UWs-1" vertex="1">
                     <mxGeometry x="80" y="130" width="120" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="JrgME44i5w0vvl3fp2Dc-0" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;The answer was 3. You got it wrong. Better luck next time!&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="RX3rkN6UX9lsYqyp_UWs-1">
+                <mxCell id="JrgME44i5w0vvl3fp2Dc-0" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;The answer was 3. You got it wrong. Better luck next time!&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="RX3rkN6UX9lsYqyp_UWs-1" vertex="1">
                     <mxGeometry x="85" y="180" width="275" height="30" as="geometry"/>
                 </mxCell>
             </root>
